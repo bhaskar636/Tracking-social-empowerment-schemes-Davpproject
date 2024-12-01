@@ -1,0 +1,875 @@
+period,programme,scheme,scheme_description,basis,recipients
+2014Q1,Children,CB,Child Benefit,Social Assistance,623739.0
+2014Q1,Children,FIS,Family Income Supplement,Social Assistance,48327.0
+2014Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,58953.0
+2014Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,1697.0
+2014Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,109030.0
+2014Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,102450.0
+2014Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,54541.0
+2014Q1,Pensions,SPC,State Pension Contributory,Social Insurance,334307.0
+2014Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,97285.0
+2014Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,119168.0
+2014Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,37874.0
+2014Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,59834.0
+2014Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,80585.0
+2014Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,339000.0
+2014Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,88629.0
+2014Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,32184.0
+2014Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,81185.0
+2014Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1098.0
+2014Q2,Children,CB,Child Benefit,Social Assistance,624463.0
+2014Q2,Children,FIS,Family Income Supplement,Social Assistance,49477.0
+2014Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,59160.0
+2014Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,1708.0
+2014Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,110063.0
+2014Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,94613.0
+2014Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,54587.0
+2014Q2,Pensions,SPC,State Pension Contributory,Social Insurance,338504.0
+2014Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96894.0
+2014Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,119087.0
+2014Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,38150.0
+2014Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,61157.0
+2014Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,78514.0
+2014Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,348163.0
+2014Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,80876.0
+2014Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31148.0
+2014Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,80525.0
+2014Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1779.0
+2014Q3,Children,CB,Child Benefit,Social Assistance,618686.0
+2014Q3,Children,FIS,Family Income Supplement,Social Assistance,52084.0
+2014Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,59874.0
+2014Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,1920.0
+2014Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,112403.0
+2014Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,93023.0
+2014Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,55000.0
+2014Q3,Pensions,SPC,State Pension Contributory,Social Insurance,342765.0
+2014Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96833.0
+2014Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,119376.0
+2014Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,39254.0
+2014Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,63177.0
+2014Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,76006.0
+2014Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,350287.0
+2014Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,79595.0
+2014Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31103.0
+2014Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,75288.0
+2014Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1831.0
+2014Q4,Children,CB,Child Benefit,Social Assistance,625362.0
+2014Q4,Children,FIS,Family Income Supplement,Social Assistance,53981.0
+2014Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,61027.0
+2014Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,1973.0
+2014Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,113628.0
+2014Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,93156.0
+2014Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,55300.0
+2014Q4,Pensions,SPC,State Pension Contributory,Social Insurance,346763.0
+2014Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,97049.0
+2014Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,119810.0
+2014Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,40131.0
+2014Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,65057.0
+2014Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,73413.0
+2014Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,321328.0
+2014Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,70870.0
+2014Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,32622.0
+2014Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,73612.0
+2014Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1817.0
+2015Q1,Children,CB,Child Benefit,Social Assistance,626276.0
+2015Q1,Children,FIS,Family Income Supplement,Social Assistance,54710.0
+2015Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,62054.0
+2015Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,2063.0
+2015Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,115471.0
+2015Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,94917.0
+2015Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,55644.0
+2015Q1,Pensions,SPC,State Pension Contributory,Social Insurance,350284.0
+2015Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,97023.0
+2015Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,120109.0
+2015Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,41678.0
+2015Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,67890.0
+2015Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,71543.0
+2015Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,313144.0
+2015Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,77749.0
+2015Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31918.0
+2015Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,72051.0
+2015Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1807.0
+2015Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,1172.0
+2015Q2,Children,CB,Child Benefit,Social Assistance,627697.0
+2015Q2,Children,FIS,Family Income Supplement,Social Assistance,56639.0
+2015Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,63091.0
+2015Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,2197.0
+2015Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,117183.0
+2015Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,92638.0
+2015Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,56028.0
+2015Q2,Pensions,SPC,State Pension Contributory,Social Insurance,353658.0
+2015Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96750.0
+2015Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,120248.0
+2015Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,42433.0
+2015Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,69654.0
+2015Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,69298.0
+2015Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,319739.0
+2015Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,71782.0
+2015Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31030.0
+2015Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,71487.0
+2015Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1780.0
+2015Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,9290.0
+2015Q3,Children,CB,Child Benefit,Social Assistance,622572.0
+2015Q3,Children,FIS,Family Income Supplement,Social Assistance,58302.0
+2015Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,63757.0
+2015Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,2290.0
+2015Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,118941.0
+2015Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,91228.0
+2015Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,56175.0
+2015Q3,Pensions,SPC,State Pension Contributory,Social Insurance,357939.0
+2015Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96649.0
+2015Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,120493.0
+2015Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,43623.0
+2015Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,71719.0
+2015Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,66148.0
+2015Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,330514.0
+2015Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,73278.0
+2015Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30735.0
+2015Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,45558.0
+2015Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1734.0
+2015Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,11098.0
+2015Q4,Children,CB,Child Benefit,Social Assistance,628609.0
+2015Q4,Children,FIS,Family Income Supplement,Social Assistance,60300.0
+2015Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,64671.0
+2015Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,2468.0
+2015Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,120587.0
+2015Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,92031.0
+2015Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,56345.0
+2015Q4,Pensions,SPC,State Pension Contributory,Social Insurance,362595.0
+2015Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96796.0
+2015Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,120980.0
+2015Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,45073.0
+2015Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,73933.0
+2015Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,62815.0
+2015Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,304914.0
+2015Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,63655.0
+2015Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31880.0
+2015Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,44545.0
+2015Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1709.0
+2016Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,11780.0
+2016Q1,Children,CB,Child Benefit,Social Assistance,629208.0
+2016Q1,Children,FIS,Family Income Supplement,Social Assistance,60382.0
+2016Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,65372.0
+2016Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,2687.0
+2016Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,122165.0
+2016Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,93571.0
+2016Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,56468.0
+2016Q1,Pensions,SPC,State Pension Contributory,Social Insurance,365629.0
+2016Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96672.0
+2016Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,121239.0
+2016Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,45943.0
+2016Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,75429.0
+2016Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,59822.0
+2016Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,293800.0
+2016Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,70524.0
+2016Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31068.0
+2016Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,43873.0
+2016Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1660.0
+2016Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,12641.0
+2016Q2,Children,CB,Child Benefit,Social Assistance,631889.0
+2016Q2,Children,FIS,Family Income Supplement,Social Assistance,60798.0
+2016Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,66747.0
+2016Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,2787.0
+2016Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,123782.0
+2016Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,91679.0
+2016Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,56496.0
+2016Q2,Pensions,SPC,State Pension Contributory,Social Insurance,369231.0
+2016Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96610.0
+2016Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,121415.0
+2016Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,47313.0
+2016Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,77913.0
+2016Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,56863.0
+2016Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,296415.0
+2016Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,66005.0
+2016Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30152.0
+2016Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,43712.0
+2016Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1639.0
+2016Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,13313.0
+2016Q3,Children,CB,Child Benefit,Social Assistance,626354.0
+2016Q3,Children,FIS,Family Income Supplement,Social Assistance,60950.0
+2016Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,69659.0
+2016Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3093.0
+2016Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,125413.0
+2016Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,89940.0
+2016Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,56358.0
+2016Q3,Pensions,SPC,State Pension Contributory,Social Insurance,373833.0
+2016Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96789.0
+2016Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,121838.0
+2016Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,48333.0
+2016Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,79648.0
+2016Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,53233.0
+2016Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,288128.0
+2016Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,67116.0
+2016Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30457.0
+2016Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,43307.0
+2016Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,263.0
+2016Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1607.0
+2016Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,13840.0
+2016Q4,Children,CB,Child Benefit,Social Assistance,632617.0
+2016Q4,Children,FIS,Family Income Supplement,Social Assistance,61801.0
+2016Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,71907.0
+2016Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3187.0
+2016Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,127503.0
+2016Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,90142.0
+2016Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,56477.0
+2016Q4,Pensions,SPC,State Pension Contributory,Social Insurance,377401.0
+2016Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96803.0
+2016Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,121956.0
+2016Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,50178.0
+2016Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,82205.0
+2016Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,49655.0
+2016Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,263334.0
+2016Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,59012.0
+2016Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30978.0
+2016Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,42786.0
+2016Q4,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,4429.0
+2016Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1577.0
+2017Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,14446.0
+2017Q1,Children,CB,Child Benefit,Social Assistance,632950.0
+2017Q1,Children,FIS,Family Income Supplement,Social Assistance,62527.0
+2017Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,73839.0
+2017Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3212.0
+2017Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,129969.0
+2017Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,94473.0
+2017Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,57433.0
+2017Q1,Pensions,SPC,State Pension Contributory,Social Insurance,381765.0
+2017Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96670.0
+2017Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,122492.0
+2017Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,51791.0
+2017Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,84500.0
+2017Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,46705.0
+2017Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,252945.0
+2017Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,65702.0
+2017Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29035.0
+2017Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,42641.0
+2017Q1,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,5948.0
+2017Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1563.0
+2017Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,14603.0
+2017Q2,Children,CB,Child Benefit,Social Assistance,633696.0
+2017Q2,Children,FIS,Family Income Supplement,Social Assistance,62150.0
+2017Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,75195.0
+2017Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3291.0
+2017Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,131511.0
+2017Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,90688.0
+2017Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,57957.0
+2017Q2,Pensions,SPC,State Pension Contributory,Social Insurance,386254.0
+2017Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96464.0
+2017Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,122313.0
+2017Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,52989.0
+2017Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,86377.0
+2017Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,43138.0
+2017Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,252499.0
+2017Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,61395.0
+2017Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29334.0
+2017Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,42498.0
+2017Q2,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6873.0
+2017Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1550.0
+2017Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,14515.0
+2017Q3,Children,CB,Child Benefit,Social Assistance,628155.0
+2017Q3,Children,FIS,Family Income Supplement,Social Assistance,62336.0
+2017Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,76348.0
+2017Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3332.0
+2017Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,133968.0
+2017Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,91429.0
+2017Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,58347.0
+2017Q3,Pensions,SPC,State Pension Contributory,Social Insurance,391025.0
+2017Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96409.0
+2017Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,122467.0
+2017Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,54603.0
+2017Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,88460.0
+2017Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,39432.0
+2017Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,244047.0
+2017Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,64557.0
+2017Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30063.0
+2017Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,42167.0
+2017Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7144.0
+2017Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1527.0
+2017Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,9457.0
+2017Q4,Children,CB,Child Benefit,Social Assistance,634620.0
+2017Q4,Children,FIS,Family Income Supplement,Social Assistance,62289.0
+2017Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,76949.0
+2017Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3208.0
+2017Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,135513.0
+2017Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,89128.0
+2017Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,58606.0
+2017Q4,Pensions,SPC,State Pension Contributory,Social Insurance,394454.0
+2017Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96608.0
+2017Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,122558.0
+2017Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,56095.0
+2017Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,90940.0
+2017Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,36041.0
+2017Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,222967.0
+2017Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,56589.0
+2017Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31858.0
+2017Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41765.0
+2017Q4,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7065.0
+2017Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1519.0
+2018Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,8974.0
+2018Q1,Children,CB,Child Benefit,Social Assistance,635232.0
+2018Q1,Children,FIS,Working Family Payment,Social Assistance,62404.0
+2018Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,77947.0
+2018Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3279.0
+2018Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,137506.0
+2018Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,95876.0
+2018Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59147.0
+2018Q1,Pensions,SPC,State Pension Contributory,Social Insurance,398776.0
+2018Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96486.0
+2018Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,122643.0
+2018Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,57160.0
+2018Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,92839.0
+2018Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,33267.0
+2018Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,213440.0
+2018Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,63083.0
+2018Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30276.0
+2018Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41670.0
+2018Q1,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6338.0
+2018Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1520.0
+2018Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,8866.0
+2018Q2,Children,CB,Child Benefit,Social Assistance,637342.0
+2018Q2,Children,FIS,Working Family Payment,Social Assistance,61485.0
+2018Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,79243.0
+2018Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3316.0
+2018Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,139056.0
+2018Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,90784.0
+2018Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,58957.0
+2018Q2,Pensions,SPC,State Pension Contributory,Social Insurance,403294.0
+2018Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96447.0
+2018Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,122643.0
+2018Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,58292.0
+2018Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,94430.0
+2018Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,30747.0
+2018Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,214012.0
+2018Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,60519.0
+2018Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,28763.0
+2018Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41963.0
+2018Q2,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,5613.0
+2018Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1487.0
+2018Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,8636.0
+2018Q3,Children,CB,Child Benefit,Social Assistance,632021.0
+2018Q3,Children,FIS,Working Family Payment,Social Assistance,59831.0
+2018Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,79705.0
+2018Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3249.0
+2018Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,141064.0
+2018Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,91307.0
+2018Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,58685.0
+2018Q3,Pensions,SPC,State Pension Contributory,Social Insurance,407872.0
+2018Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96456.0
+2018Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,123019.0
+2018Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,59351.0
+2018Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,95995.0
+2018Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,28025.0
+2018Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,205832.0
+2018Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,62942.0
+2018Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29575.0
+2018Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41959.0
+2018Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6655.0
+2018Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1497.0
+2018Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,8443.0
+2018Q4,Children,CB,Child Benefit,Social Assistance,640582.0
+2018Q4,Children,FIS,Working Family Payment,Social Assistance,58582.0
+2018Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,81520.0
+2018Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3282.0
+2018Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,142650.0
+2018Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,89274.0
+2018Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,58922.0
+2018Q4,Pensions,SPC,State Pension Contributory,Social Insurance,412398.0
+2018Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96630.0
+2018Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,122908.0
+2018Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,61858.0
+2018Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,99842.0
+2018Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,25615.0
+2018Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,188863.0
+2018Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,55743.0
+2018Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31861.0
+2018Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41595.0
+2018Q4,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7022.0
+2018Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1481.0
+2019Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,8021.0
+2019Q1,Children,CB,Child Benefit,Social Assistance,634475.0
+2019Q1,Children,FIS,Working Family Payment,Social Assistance,58951.0
+2019Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,83275.0
+2019Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3342.0
+2019Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,144157.0
+2019Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,96353.0
+2019Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59532.0
+2019Q1,Pensions,SPC,State Pension Contributory,Social Insurance,417678.0
+2019Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96799.0
+2019Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,123453.0
+2019Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,61166.0
+2019Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,99788.0
+2019Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,23471.0
+2019Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,180788.0
+2019Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,61752.0
+2019Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29871.0
+2019Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41762.0
+2019Q1,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6759.0
+2019Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1473.0
+2019Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,7524.0
+2019Q2,Children,CB,Child Benefit,Social Assistance,640040.0
+2019Q2,Children,FIS,Working Family Payment,Social Assistance,57763.0
+2019Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,84004.0
+2019Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3289.0
+2019Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,145166.0
+2019Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,87699.0
+2019Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59465.0
+2019Q2,Pensions,SPC,State Pension Contributory,Social Insurance,421496.0
+2019Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96598.0
+2019Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,123775.0
+2019Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,63274.0
+2019Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,102880.0
+2019Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,21420.0
+2019Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,180913.0
+2019Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,58714.0
+2019Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29900.0
+2019Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41859.0
+2019Q2,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6771.0
+2019Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1431.0
+2019Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,7132.0
+2019Q3,Children,CB,Child Benefit,Social Assistance,634683.0
+2019Q3,Children,FIS,Working Family Payment,Social Assistance,57669.0
+2019Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,84291.0
+2019Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3661.0
+2019Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,146843.0
+2019Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,87460.0
+2019Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59415.0
+2019Q3,Pensions,SPC,State Pension Contributory,Social Insurance,428717.0
+2019Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96494.0
+2019Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,124075.0
+2019Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,64243.0
+2019Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,104937.0
+2019Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,19489.0
+2019Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,179178.0
+2019Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,65488.0
+2019Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30813.0
+2019Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41947.0
+2019Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7940.0
+2019Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1419.0
+2019Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,6570.0
+2019Q4,Children,CB,Child Benefit,Social Assistance,641102.0
+2019Q4,Children,FIS,Working Family Payment,Social Assistance,57241.0
+2019Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,85800.0
+2019Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3735.0
+2019Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,148802.0
+2019Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,88181.0
+2019Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59385.0
+2019Q4,Pensions,SPC,State Pension Contributory,Social Insurance,432383.0
+2019Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96220.0
+2019Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,123957.0
+2019Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,66058.0
+2019Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,108223.0
+2019Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,17783.0
+2019Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,168066.0
+2019Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,57795.0
+2019Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,31060.0
+2019Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41711.0
+2019Q4,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,129.0
+2019Q4,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7482.0
+2019Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1392.0
+2020Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,6116.0
+2020Q1,Children,CB,Child Benefit,Social Assistance,642825.0
+2020Q1,Children,FIS,Working Family Payment,Social Assistance,57257.0
+2020Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,88000.0
+2020Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3938.0
+2020Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,150851.0
+2020Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,98403.0
+2020Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59925.0
+2020Q1,Pensions,SPC,State Pension Contributory,Social Insurance,438247.0
+2020Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96417.0
+2020Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,124422.0
+2020Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,67185.0
+2020Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,110219.0
+2020Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,16499.0
+2020Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,165417.0
+2020Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,67874.0
+2020Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30426.0
+2020Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,42124.0
+2020Q1,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,224813.0
+2020Q1,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,862.0
+2020Q1,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7748.0
+2020Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1388.0
+2020Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,4973.0
+2020Q2,Children,CB,Child Benefit,Social Assistance,642694.0
+2020Q2,Children,FIS,Working Family Payment,Social Assistance,54883.0
+2020Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,89036.0
+2020Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4086.0
+2020Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,151824.0
+2020Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,113632.0
+2020Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,60148.0
+2020Q2,Pensions,SPC,State Pension Contributory,Social Insurance,442457.0
+2020Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96262.0
+2020Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,124285.0
+2020Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,68513.0
+2020Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,112044.0
+2020Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,22401.0
+2020Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,153303.0
+2020Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,63200.0
+2020Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,28852.0
+2020Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41369.0
+2020Q2,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,734259.0
+2020Q2,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,2083.0
+2020Q2,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,5076.0
+2020Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1358.0
+2020Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,4411.0
+2020Q3,Children,CB,Child Benefit,Social Assistance,642997.0
+2020Q3,Children,FIS,Working Family Payment,Social Assistance,52753.0
+2020Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,89716.0
+2020Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4328.0
+2020Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,153556.0
+2020Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,94517.0
+2020Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,60375.0
+2020Q3,Pensions,SPC,State Pension Contributory,Social Insurance,447254.0
+2020Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96347.0
+2020Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,124382.0
+2020Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,70801.0
+2020Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,115318.0
+2020Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,20999.0
+2020Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,170548.0
+2020Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,65057.0
+2020Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,28196.0
+2020Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41592.0
+2020Q3,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,448618.0
+2020Q3,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,4916.0
+2020Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6722.0
+2020Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1344.0
+2020Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,4123.0
+2020Q4,Children,CB,Child Benefit,Social Assistance,643159.0
+2020Q4,Children,FIS,Working Family Payment,Social Assistance,52100.0
+2020Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,90684.0
+2020Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4268.0
+2020Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,154260.0
+2020Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,109309.0
+2020Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,60467.0
+2020Q4,Pensions,SPC,State Pension Contributory,Social Insurance,451910.0
+2020Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96413.0
+2020Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,124453.0
+2020Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,74266.0
+2020Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,120726.0
+2020Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,20469.0
+2020Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,169514.0
+2020Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,61990.0
+2020Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,28877.0
+2020Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41940.0
+2020Q4,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,493868.0
+2020Q4,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,6873.0
+2020Q4,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6466.0
+2020Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1320.0
+2021Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3788.0
+2021Q1,Children,CB,Child Benefit,Social Assistance,640391.0
+2021Q1,Children,FIS,Working Family Payment,Social Assistance,50322.0
+2021Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,91353.0
+2021Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4213.0
+2021Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,155601.0
+2021Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,124303.0
+2021Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,60690.0
+2021Q1,Pensions,SPC,State Pension Contributory,Social Insurance,456128.0
+2021Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96453.0
+2021Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,124786.0
+2021Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,76195.0
+2021Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,124329.0
+2021Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,20872.0
+2021Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,157280.0
+2021Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,55594.0
+2021Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29501.0
+2021Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41401.0
+2021Q1,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,570492.0
+2021Q1,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,6675.0
+2021Q1,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6544.0
+2021Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1315.0
+2021Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3492.0
+2021Q2,Children,CB,Child Benefit,Social Assistance,641714.0
+2021Q2,Children,FIS,Working Family Payment,Social Assistance,48892.0
+2021Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,91648.0
+2021Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4168.0
+2021Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,156162.0
+2021Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,97900.0
+2021Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,60195.0
+2021Q2,Pensions,SPC,State Pension Contributory,Social Insurance,460573.0
+2021Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96333.0
+2021Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,125073.0
+2021Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,78068.0
+2021Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,127402.0
+2021Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,20056.0
+2021Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,158189.0
+2021Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,54776.0
+2021Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,28971.0
+2021Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41188.0
+2021Q2,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,487619.0
+2021Q2,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,12484.0
+2021Q2,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6657.0
+2021Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1288.0
+2021Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3447.0
+2021Q3,Children,CB,Child Benefit,Social Assistance,637311.0
+2021Q3,Children,FIS,Working Family Payment,Social Assistance,49575.0
+2021Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,92675.0
+2021Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4347.0
+2021Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,156829.0
+2021Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,119810.0
+2021Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59905.0
+2021Q3,Pensions,SPC,State Pension Contributory,Social Insurance,466039.0
+2021Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96473.0
+2021Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,125254.0
+2021Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,80041.0
+2021Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,130691.0
+2021Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,16951.0
+2021Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,157808.0
+2021Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,61931.0
+2021Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29478.0
+2021Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41791.0
+2021Q3,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,225116.0
+2021Q3,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,17115.0
+2021Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6527.0
+2021Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1248.0
+2021Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3361.0
+2021Q4,Children,CB,Child Benefit,Social Assistance,639125.0
+2021Q4,Children,FIS,Working Family Payment,Social Assistance,49859.0
+2021Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,93004.0
+2021Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4114.0
+2021Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,157448.0
+2021Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,165871.0
+2021Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59300.0
+2021Q4,Pensions,SPC,State Pension Contributory,Social Insurance,470814.0
+2021Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96489.0
+2021Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,125510.0
+2021Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,83481.0
+2021Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,136874.0
+2021Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,14420.0
+2021Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,149956.0
+2021Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,60490.0
+2021Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,32704.0
+2021Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,41943.0
+2021Q4,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,111337.0
+2021Q4,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,17191.0
+2021Q4,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,8410.0
+2021Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1199.0
+2022Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3249.0
+2022Q1,Children,CB,Child Benefit,Social Assistance,638000.0
+2022Q1,Children,FIS,Working Family Payment,Social Assistance,50223.0
+2022Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,93382.0
+2022Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4063.0
+2022Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,157837.0
+2022Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,335004.0
+2022Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59196.0
+2022Q1,Pensions,SPC,State Pension Contributory,Social Insurance,474487.0
+2022Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96132.0
+2022Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,125784.0
+2022Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,84969.0
+2022Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,140043.0
+2022Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,13042.0
+2022Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,146518.0
+2022Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,82526.0
+2022Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,30301.0
+2022Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,42227.0
+2022Q1,Working Age Income Supports,PUP,Pandemic Unemployment Claim,Social Insurance,84934.0
+2022Q1,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,15560.0
+2022Q1,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7259.0
+2022Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1176.0
+2022Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3172.0
+2022Q2,Children,CB,Child Benefit,Social Assistance,649142.0
+2022Q2,Children,FIS,Working Family Payment,Social Assistance,50103.0
+2022Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,93185.0
+2022Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,3964.0
+2022Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,158382.0
+2022Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,174876.0
+2022Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,59015.0
+2022Q2,Pensions,SPC,State Pension Contributory,Social Insurance,479717.0
+2022Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,96418.0
+2022Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,126149.0
+2022Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,88166.0
+2022Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,145718.0
+2022Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,11660.0
+2022Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,166809.0
+2022Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,81776.0
+2022Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,28449.0
+2022Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,43897.0
+2022Q2,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,19082.0
+2022Q2,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6352.0
+2022Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1166.0
+2022Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3264.0
+2022Q3,Children,CB,Child Benefit,Social Assistance,646443.0
+2022Q3,Children,FIS,Working Family Payment,Social Assistance,50991.0
+2022Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,94000.0
+2022Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4165.0
+2022Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,159308.0
+2022Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,157433.0
+2022Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,58308.0
+2022Q3,Pensions,SPC,State Pension Contributory,Social Insurance,484822.0
+2022Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,98331.0
+2022Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,126439.0
+2022Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,89692.0
+2022Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,148587.0
+2022Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,10669.0
+2022Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,171823.0
+2022Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,82229.0
+2022Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,27108.0
+2022Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,44683.0
+2022Q3,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,24806.0
+2022Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6992.0
+2022Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1155.0
+2022Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3225.0
+2022Q4,Children,CB,Child Benefit,Social Assistance,656074.0
+2022Q4,Children,FIS,Working Family Payment,Social Assistance,51186.0
+2022Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,94409.0
+2022Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4121.0
+2022Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,160134.0
+2022Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,129466.0
+2022Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,57887.0
+2022Q4,Pensions,SPC,State Pension Contributory,Social Insurance,488587.0
+2022Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,99270.0
+2022Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,126629.0
+2022Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,94421.0
+2022Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,157812.0
+2022Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,9987.0
+2022Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,171586.0
+2022Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,67414.0
+2022Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29339.0
+2022Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,45164.0
+2022Q4,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,24033.0
+2022Q4,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7416.0
+2022Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1140.0
+2023Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,3037.0
+2023Q1,Children,CB,Child Benefit,Social Assistance,657533.0
+2023Q1,Children,FIS,Working Family Payment,Social Assistance,51336.0
+2023Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,95284.0
+2023Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4342.0
+2023Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,161073.0
+2023Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,122521.0
+2023Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,57835.0
+2023Q1,Pensions,SPC,State Pension Contributory,Social Insurance,493225.0
+2023Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,99966.0
+2023Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,126898.0
+2023Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,96050.0
+2023Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,160878.0
+2023Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,9489.0
+2023Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,173639.0
+2023Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,65871.0
+2023Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,27499.0
+2023Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,45625.0
+2023Q1,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,20589.0
+2023Q1,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6710.0
+2023Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1133.0
+2023Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,2983.0
+2023Q2,Children,CB,Child Benefit,Social Assistance,661721.0
+2023Q2,Children,FIS,Working Family Payment,Social Assistance,51044.0
+2023Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,96071.0
+2023Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4533.0
+2023Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,162075.0
+2023Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,112670.0
+2023Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,57575.0
+2023Q2,Pensions,SPC,State Pension Contributory,Social Insurance,498681.0
+2023Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,100238.0
+2023Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,127199.0
+2023Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,97447.0
+2023Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,163748.0
+2023Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,9064.0
+2023Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,173002.0
+2023Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,64821.0
+2023Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,27785.0
+2023Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,45985.0
+2023Q2,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,23955.0
+2023Q2,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6486.0
+2023Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1133.0
+2023Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,2861.0
+2023Q3,Children,CB,Child Benefit,Social Assistance,657132.0
+2023Q3,Children,FIS,Working Family Payment,Social Assistance,50396.0
+2023Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,96982.0
+2023Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4669.0
+2023Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,163310.0
+2023Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,114528.0
+2023Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,57279.0
+2023Q3,Pensions,SPC,State Pension Contributory,Social Insurance,503471.0
+2023Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,100835.0
+2023Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,127070.0
+2023Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,98865.0
+2023Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,166798.0
+2023Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,8714.0
+2023Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,171605.0
+2023Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,71879.0
+2023Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,27972.0
+2023Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,46104.0
+2023Q3,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,25085.0
+2023Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7427.0
+2023Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1105.0
+2023Q4,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,2734.0
+2023Q4,Children,CB,Child Benefit,Social Assistance,663240.0
+2023Q4,Children,FIS,Working Family Payment,Social Assistance,49569.0
+2023Q4,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,98065.0
+2023Q4,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4550.0
+2023Q4,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,164722.0
+2023Q4,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,120350.0
+2023Q4,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,57911.0
+2023Q4,Pensions,SPC,State Pension Contributory,Social Insurance,510508.0
+2023Q4,Pensions,SPNC,State Pension Non Contributory,Social Assistance,101800.0
+2023Q4,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,127487.0
+2023Q4,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,101937.0
+2023Q4,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,172575.0
+2023Q4,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,8419.0
+2023Q4,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,165904.0
+2023Q4,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,63445.0
+2023Q4,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,29906.0
+2023Q4,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,46325.0
+2023Q4,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,22068.0
+2023Q4,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7798.0
+2023Q4,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1104.0
+2024Q1,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,2559.0
+2024Q1,Children,CB,Child Benefit,Social Assistance,663726.0
+2024Q1,Children,FIS,Working Family Payment,Social Assistance,49466.0
+2024Q1,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,98765.0
+2024Q1,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4589.0
+2024Q1,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,165930.0
+2024Q1,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,110929.0
+2024Q1,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,58437.0
+2024Q1,Pensions,SPC,State Pension Contributory,Social Insurance,515715.0
+2024Q1,Pensions,SPNC,State Pension Non Contributory,Social Assistance,101972.0
+2024Q1,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,127638.0
+2024Q1,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,102444.0
+2024Q1,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,175656.0
+2024Q1,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,8156.0
+2024Q1,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,163871.0
+2024Q1,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,68340.0
+2024Q1,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,28545.0
+2024Q1,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,46248.0
+2024Q1,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,19983.0
+2024Q1,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,7198.0
+2024Q1,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1094.0
+2024Q2,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,2476.0
+2024Q2,Children,CB,Child Benefit,Social Assistance,683114.0
+2024Q2,Children,FIS,Working Family Payment,Social Assistance,49596.0
+2024Q2,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,99390.0
+2024Q2,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4730.0
+2024Q2,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,167679.0
+2024Q2,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,108792.0
+2024Q2,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,58229.0
+2024Q2,Pensions,SPC,State Pension Contributory,Social Insurance,522270.0
+2024Q2,Pensions,SPNC,State Pension Non Contributory,Social Assistance,101998.0
+2024Q2,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,127826.0
+2024Q2,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,103433.0
+2024Q2,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,178331.0
+2024Q2,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,7864.0
+2024Q2,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,162719.0
+2024Q2,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,68675.0
+2024Q2,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,27120.0
+2024Q2,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,46107.0
+2024Q2,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,21984.0
+2024Q2,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,6671.0
+2024Q2,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1068.0
+2024Q3,Children,BTWF,Back to Work Scheme Family Dividend,Social Assistance,2467.0
+2024Q3,Children,CB,Child Benefit,Social Assistance,686152.0
+2024Q3,Children,FIS,Working Family Payment,Social Assistance,49385.0
+2024Q3,"Illness,Disability and Caring",CAR,Carers Allowance,Social Assistance,99920.0
+2024Q3,"Illness,Disability and Caring",CARB,Carers Benefit,Social Insurance,4961.0
+2024Q3,"Illness,Disability and Caring",DPMA,Disability Allowance,Social Assistance,169205.0
+2024Q3,"Illness,Disability and Caring",DB,Illness Benefit,Social Insurance,110207.0
+2024Q3,"Illness,Disability and Caring",INVP,Invalidity Pension,Social Insurance,57673.0
+2024Q3,Pensions,SPC,State Pension Contributory,Social Insurance,526255.0
+2024Q3,Pensions,SPNC,State Pension Non Contributory,Social Assistance,101828.0
+2024Q3,Pensions,WCP,Widow(er)'s Contributory Pension,Social Insurance,127718.0
+2024Q3,Supplementary Payments and Miscellaneous Services,HHB,Household Benefits,Social Assistance,104834.0
+2024Q3,Supplementary Payments and Miscellaneous Services,HHB1,Household Benefits,Social Insurance,182099.0
+2024Q3,Supplementary Payments and Miscellaneous Services,RENT,Rent Supplement,Social Assistance,7598.0
+2024Q3,Working Age Income Supports,UA,Jobseekers Allowance,Social Assistance,160254.0
+2024Q3,Working Age Income Supports,UB,Jobseekers Benefit,Social Insurance,76067.0
+2024Q3,Working Age Income Supports,MAT,Maternity Benefit,Social Insurance,28552.0
+2024Q3,Working Age Income Supports,OFP,One Parent Family Payment,Social Assistance,46037.0
+2024Q3,Working Age Income Supports,PAR,Parents Benefit,Social Insurance,30149.0
+2024Q3,Working Age Income Supports,PAT,Paternity Benefit,Social Insurance,8138.0
+2024Q3,Working Age Income Supports,WNCP,Widows Non Contributory Pension,Social Assistance,1063.0
